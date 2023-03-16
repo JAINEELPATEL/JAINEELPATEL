@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JAINEELPATEL
-- 👀 I’m interested in Languages
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C
+- 👀 I’m interested in Tech
+- 🌱 I’m currently persuing B.Tech Computer Engineering
 - 📫 How to reach me jaineelp2@gmail.com
 
 <!---
